@@ -1,4 +1,4 @@
-# tournamentmaker
+# Tournament Bracket Vue.js
 
 ## Project setup
 ```
